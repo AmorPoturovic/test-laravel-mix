@@ -1,6 +1,0 @@
-:root {
-    --color: white;
-}
-.hello {
-    color: var(--color);
-}
